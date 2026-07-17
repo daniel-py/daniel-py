@@ -25,7 +25,7 @@ social, and agritech - building mobile apps, desktop apps and training AI models
 
 ## Toolbox
 
-Flutter · Dart · Riverpod / Provider · Firebase · Socket.IO · Python · PyTorch ·
+Flutter · Dart · Riverpod / Bloc · Firebase · Socket.IO · Python · PyTorch ·
 QLoRA / Unsloth / PEFT / TRL · Hugging Face · Docker · Git
 
 ## Reach me
