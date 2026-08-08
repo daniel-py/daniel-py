@@ -23,7 +23,7 @@ social, and agritech - building mobile apps, desktop apps and training AI models
   [flutter_banuba_agora_ar](https://pub.dev/packages/flutter_banuba_agora_ar)
 - **Writing** - a series on running LLMs locally in Flutter apps:
   [on Android](https://danielsdevjourney.hashnode.dev/running-llms-locally-on-android-a-mobile-flutter-developer-s-guide-to-fine-tuning-and-on-device-ai) and
-  [in a Flutter Windows app](https://danielsdevjourney.hashnode.dev/running-ai-models-locally-with-flutter-on-device-llms-in-a-flutter-windows-app)
+  [in Flutter desktop apps (Windows/macOS/Linux)](https://danielsdevjourney.hashnode.dev/running-ai-models-locally-with-flutter-on-device-llms-in-flutter-desktop-apps-windows-macos-linux)
 
 ## Toolbox
 
