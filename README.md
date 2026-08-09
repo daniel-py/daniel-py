@@ -5,7 +5,7 @@
 I don't just write code - I build products. I work on startup teams across fintech,
 social, and agritech - building mobile apps, desktop apps and training AI models.
 
-**Portfolio:** [danieloluremi.pages.dev](https://danieloluremi.pages.dev)
+**Portfolio:** [daniel-py.github.io](https://daniel-py.github.io)
 
 ## What I've shipped
 
