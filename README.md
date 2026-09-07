@@ -20,7 +20,7 @@ social, and agritech - building mobile apps, desktop apps and training AI models
 - **Open source** - six Flutter plugins on pub.dev:
   [openvino_genai](https://pub.dev/packages/openvino_genai) +
   [openvino_genai_windows](https://pub.dev/packages/openvino_genai_windows)
-  (on-device OpenVINO LLM inference), and four AR live-streaming plugins:
+  (on-device OpenVINO LLM + VLM inference), and four AR live-streaming plugins:
   [flutter_deepar](https://pub.dev/packages/flutter_deepar),
   [flutter_deepar_agora](https://pub.dev/packages/flutter_deepar_agora),
   [flutter_banuba_ar](https://pub.dev/packages/flutter_banuba_ar),
