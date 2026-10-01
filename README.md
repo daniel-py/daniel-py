@@ -11,7 +11,7 @@ social, and agritech - building mobile apps, desktop apps and training AI models
 
 - **Production apps** - realtime marketplaces, fintech, social, and agritech, with
   7k+ downloads across the stores: Farm Monitor, DripoolPay (built solo, 4.7 stars),
-  RecenthPost (5.0 stars), Errandaar, and Balancc (in testing)
+  RecenthPost (5.0 stars), Errandaar, Cloutt, and Balancc (in testing)
 - **AI engineering** - EdgeExl, SchoolExl's fully-offline desktop app (on-device
   LLM/VLM inference via OpenVINO, fully local voice pipeline); training the Sumeru
   SLMs at SumeruEdutech; QLoRA fine-tunes of Qwen2.5; published the
@@ -31,8 +31,9 @@ social, and agritech - building mobile apps, desktop apps and training AI models
 
 ## Toolbox
 
-Flutter · Dart · Riverpod / Provider · Firebase · Socket.IO · Python · PyTorch ·
-QLoRA / Unsloth / PEFT / TRL · Hugging Face · OpenVINO · Docker · Git
+Flutter · Dart · Kotlin & Swift (native plugins) · FFI / C interop · BLoC · Riverpod ·
+Firebase · Socket.IO · GitHub Actions · Fastlane · Python · PyTorch ·
+QLoRA / Unsloth / PEFT / TRL · Hugging Face · OpenVINO · ONNX Runtime · Docker
 
 ## Reach me
 
