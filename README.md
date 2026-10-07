@@ -14,7 +14,7 @@ social, and agritech - building mobile apps, desktop apps and training AI models
   RecenthPost (5.0 stars), Errandaar, Cloutt, and Balancc (in testing)
 - **AI engineering** - EdgeExl, SchoolExl's fully-offline desktop app (on-device
   LLM/VLM inference via OpenVINO, fully local voice pipeline); training the Sumeru
-  SLMs at SumeruEdutech; QLoRA fine-tunes of Qwen2.5; published the
+  SLMs; QLoRA fine-tunes of Qwen2.5; published the
   [Yoruba Academic Wikipedia QA dataset](https://huggingface.co/datasets/Remithefirst/yoruba-academic-wikipedia-qa)
   on Hugging Face
 - **Open source** - six Flutter plugins on pub.dev:
