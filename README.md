@@ -1,9 +1,10 @@
 # Hi, I'm Daniel
 
-**Software Engineer | Mobile · Desktop · AI**
+**Full-Stack Mobile Engineer | Flutter · Backend · AI**
 
 I don't just write code - I build products. I work on startup teams across fintech,
-social, and agritech - building mobile apps, desktop apps and training AI models.
+social, and agritech - building mobile apps, desktop apps and training AI models - and
+I build the server side too, in Go and Python.
 
 **Portfolio:** [daniel-py.github.io](https://daniel-py.github.io)
 
@@ -12,6 +13,11 @@ social, and agritech - building mobile apps, desktop apps and training AI models
 - **Production apps** - realtime marketplaces, fintech, social, and agritech, with
   7k+ downloads across the stores: Farm Monitor, DripoolPay (built solo, 4.7 stars),
   RecenthPost (5.0 stars), Errandaar, Cloutt, and Balancc (in testing)
+- **Full stack** - [Kanban Boards](https://github.com/daniel-py/jira_copycat), a Jira-style
+  product end to end: a Go API (Gin, GORM, PostgreSQL on Neon) on Fly.io with JWT auth,
+  2FA and Paystack subscription billing, plus the Flutter client. Earlier Python backends:
+  a [Flask WhatsApp assistant](https://github.com/daniel-py/whatsapp_bot) on Twilio and a
+  [Django website](https://github.com/daniel-py/My-Web-Project)
 - **AI engineering** - EdgeExl, SchoolExl's fully-offline desktop app (on-device
   LLM/VLM inference via OpenVINO, fully local voice pipeline); training the Sumeru
   SLMs; QLoRA fine-tunes of Qwen2.5; published the
@@ -32,7 +38,8 @@ social, and agritech - building mobile apps, desktop apps and training AI models
 ## Toolbox
 
 Flutter · Dart · Kotlin & Swift (native plugins) · FFI / C interop · BLoC · Riverpod ·
-Firebase · Socket.IO · GitHub Actions · Fastlane · Python · PyTorch ·
+Firebase · Socket.IO · Go (Gin, GORM) · PostgreSQL · Python (Flask, Django) ·
+GitHub Actions · Fastlane · PyTorch ·
 QLoRA / Unsloth / PEFT / TRL · Hugging Face · OpenVINO · ONNX Runtime · Docker
 
 ## Reach me
